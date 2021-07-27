@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Atletico Madrid Logo](https://1000logos.net/wp-content/uploads/2018/04/Atletico-Madrid-emblem.jpg)
