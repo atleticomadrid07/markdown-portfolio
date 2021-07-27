@@ -8,4 +8,4 @@
 * Llorente
 * De Paul
 * Suarez
-* Fellix
+* Felix
