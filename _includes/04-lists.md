@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Oblak
+* Lodi
+* Gimenez
+* Felipe
+* Trippier
+* Lemar
+* Koke
+* Llorente
+* De Paul
+* Suarez
+* Fellix
